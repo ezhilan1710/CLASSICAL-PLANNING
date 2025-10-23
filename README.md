@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+NAME : EZHILAN N
+REGNO : 212224030007
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
